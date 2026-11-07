@@ -1,0 +1,28 @@
+PS D:\BSAIM-F25-199 AI lab tasks\Lab6-AI-199> python .\taks1_tokens.py
+=== TOKENIZATION COMPARISON ===
+
+Original: 'AI, search!'
+Whitespace (2): ['AI,', 'search!']
+Word-like (2): ['AI', 'search']
+
+Original: "I can't log in."
+Whitespace (4): ['I', "can't", 'log', 'in.']
+Word-like (5): ['I', 'can', 't', 'log', 'in']
+
+Original: 'help@example.com'
+Whitespace (1): ['help@example.com']
+Word-like (3): ['help', 'example', 'com']
+
+Original: 'CS4944 version 2.1'
+Whitespace (3): ['CS4944', 'version', '2.1']
+Word-like (4): ['CS4944', 'version', '2', '1']
+
+Original: ''
+Whitespace (0): []
+Word-like (0): []
+
+Original: 'یہ ایک مثال ہے'
+Whitespace (4): ['یہ', 'ایک', 'مثال', 'ہے']
+Word-like (4): ['یہ', 'ایک', 'مثال', 'ہے']
+
+SentenceTransformer model not available locally.

@@ -1,0 +1,2 @@
+PS D:\BSAIM-F25-199 AI lab tasks\Lab5-AI-199> python .\lab5_minimax.py
+Optimal Value: 5, Leaves Evaluated: 8

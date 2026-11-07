@@ -1,0 +1,10 @@
+PS D:\BSAIM-F25-199 AI lab tasks\Lab6-AI-199> python .\task2_chunks.py
+
+--- Strategy: 0 ---
+{'id': 'test_doc:0', 'doc': 'test_doc', 'start': 0, 'end': 130, 'text': 'Late submission is normally penalized. Illness extensions require medical evidence before the deadline. Ask the coordinator first.'}
+
+--- Strategy: 10 ---
+{'id': 'test_doc:0', 'doc': 'test_doc', 'start': 0, 'end': 130, 'text': 'Late submission is normally penalized. Illness extensions require medical evidence before the deadline. Ask the coordinator first.'}
+
+--- Strategy: sentence ---
+{'id': 'test_doc:0', 'doc': 'test_doc', 'start': 0, 'end': 130, 'text': 'Late submission is normally penalized. Illness extensions require medical evidence before the deadline. Ask the coordinator first.'}

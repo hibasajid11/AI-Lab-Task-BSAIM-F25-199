@@ -1,0 +1,6 @@
+PS D:\BSAIM-F25-199 AI lab tasks\Lab1--AI--199> python rules.py
+case | symbolic | threshold | disagreement
+complete_high | Review | Review | False
+complete_low | Hold | Review | True
+incomplete_high | Hold | Review | True
+boundary | Review | Review | False

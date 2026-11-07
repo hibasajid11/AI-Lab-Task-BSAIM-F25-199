@@ -1,0 +1,2 @@
+PS D:\BSAIM-F25-199 AI lab tasks\Lab3-AI-199> python lab3_ucs.py
+UCS Result: (3, ['A', 'B', 'E', 'G'])

@@ -1,0 +1,2 @@
+PS D:\BSAIM-F25-199 AI lab tasks\Lab4-AI-199> python .\A-algo.py
+A* Path and Cost: (6, ['S', 'A', 'C', 'G'])

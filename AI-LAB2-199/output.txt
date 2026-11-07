@@ -1,0 +1,7 @@
+PS D:\BSAIM-F25-199 AI lab tasks\Lab2-AI-199> python model.py
+Step 1 | Percept: (29, True) | Target: COOL | Command Sent: True
+Step 2 | Percept: (29, True) | Target: COOL | Command Sent: False
+Step 3 | Percept: (20, True) | Target: IDLE | Command Sent: True
+Step 4 | Percept: (26, True) | Target: IDLE | Command Sent: False
+Step 5 | Percept: (19, True) | Target: WARM | Command Sent: True
+Step 6 | Percept: (29, False) | Target: ECO | Command Sent: True
